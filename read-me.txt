@@ -1,0 +1,5 @@
+Aplicação para buscar professores disponíveis para alunos disponíveis.
+
+Composta pelo servidor, página web e  apliucação mobile.
+
+Omnistack.
